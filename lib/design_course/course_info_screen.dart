@@ -125,7 +125,7 @@ class _CourseInfoScreenState extends State<CourseInfoScreen>
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                             children: <Widget>[
                               const Text(
-                                '\$28.99',
+                                '\₹28.99',
                                 textAlign: TextAlign.left,
                                 style: TextStyle(
                                   fontWeight: FontWeight.w200,

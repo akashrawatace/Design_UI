@@ -197,7 +197,7 @@ class CategoryView extends StatelessWidget {
                                               CrossAxisAlignment.start,
                                           children: <Widget>[
                                             Text(
-                                              '\$${category.money}',
+                                              '\₹${category.money}',
                                               textAlign: TextAlign.left,
                                               style: const TextStyle(
                                                 fontWeight: FontWeight.w600,
